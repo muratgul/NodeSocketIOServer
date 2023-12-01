@@ -1,0 +1,16 @@
+2023-12-01 14:10:46 - Starting C:\Program Files\nodejs\node.exe  --harmony E:\VueApps\vuesocketioserver\node_modules\node-windows\lib\wrapper.js --file E:\VueApps\vuesocketioserver\server.js --scriptoptions= --log "nodeBasic wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-12-01 14:10:46 - Started 22596
+2023-12-01 14:11:12 - Stopping nodebasic.exe
+2023-12-01 14:11:12 - ProcessKill 22596
+2023-12-01 14:11:12 - Found child process: 16692 Name: conhost.exe
+2023-12-01 14:11:12 - Found child process: 18880 Name: node.exe
+2023-12-01 14:11:12 - Stopping process 16692
+2023-12-01 14:11:12 - Send SIGINT 16692
+2023-12-01 14:11:12 - SIGINT to 16692 failed - Killing as fallback
+2023-12-01 14:11:12 - Stopping process 18880
+2023-12-01 14:11:12 - Send SIGINT 18880
+2023-12-01 14:11:12 - SIGINT to 18880 failed - Killing as fallback
+2023-12-01 14:11:12 - Stopping process 22596
+2023-12-01 14:11:12 - Send SIGINT 22596
+2023-12-01 14:11:12 - SIGINT to 22596 failed - Killing as fallback
+2023-12-01 14:11:12 - Finished nodebasic.exe
